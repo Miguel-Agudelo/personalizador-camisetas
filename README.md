@@ -2,6 +2,10 @@
 
 Aplicación web para previsualizar estampados en una camiseta básica fija antes de fabricarlos o comprarlos. Permite personalizar el color, trabajar los lados delantero y trasero, y descargar imágenes de producto.
 
+## Demo
+
+Prueba la aplicación publicada en Vercel: [Personalizador de camisetas](https://camisetas-custom-omega.vercel.app/).
+
 ## Sobre este proyecto
 
 Hice este proyecto haciendo vibecoding con IA. La idea surgió de una necesidad real: quería previsualizar estampados en camisetas básicas antes de fabricarlos o comprarlos.
